@@ -2,7 +2,7 @@
 title: Math Virtual Keyboard
 email: raniere@ime.unicamp.br
 description: "Landing page for Google Summer of Code 2014 project \"Math Virtual Keyboard\"."
-baseurl: ""
+baseurl: "/gsoc2014"
 url: "https://r-gaia-cs.github.io/gsoc2014"
 github_username: r-gaia-cs
 
