@@ -22,9 +22,11 @@ and you can install it from the
 
 <img class='hamachi' src="animation/styled-letters.gif">
 
-- Many symbols are available as alternate keys, e.g. ∏ for the product notation can be
-  obtained from the letter ∏, and ∑ for the summation is available as the
-  alternate of the letter ∑.
+- Many symbols are available as alternate keys, e.g. the n-ary product (∏) can be
+  obtained with a long pressing at the n-ary summation (∑).
+
+<img class='hamachi' src="animation/alternate.gif">
+
 - Smart dots, i.e., pressing three dots results in `\dots`.
 
 <img class='hamachi' src="animation/dots.gif">

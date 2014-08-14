@@ -3,7 +3,8 @@ PNG2GIF = convert
 PNG2GIFFLAGS = -set delay 50 -loop 0
 
 ################################### VARIABLE ###################################
-ANIMATIONS = auto-capitalization.gif \
+ANIMATIONS = alternate.gif \
+	     auto-capitalization.gif \
 	     backspace.gif dots.gif \
 	     jumps.gif \
 	     script-continue.gif \
