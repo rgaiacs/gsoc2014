@@ -11,7 +11,7 @@ This virtual keyboard is an
 [open source project](https://github.com/r-gaia-cs/gsoc2014)
 that started as a
 [Google Summer of Code 2014's project](https://www.google-melange.com/gsoc/proposal/public/google/gsoc2014/r_gaia_cs/5629499534213120).
-Right now it is the **only** one available for
+Right now it is **only** available for
 [Firefox OS](https://www.mozilla.org/firefox/os/),
 and you can install it from the
 [Marketplace](https://marketplace.firefox.com/app/latex-keyboard).
